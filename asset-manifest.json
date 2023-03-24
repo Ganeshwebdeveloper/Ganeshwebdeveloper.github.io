@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.49a6a049.js",
+    "main.js": "/static/js/main.993b68b8.js",
     "static/js/787.6d7eec60.chunk.js": "/static/js/787.6d7eec60.chunk.js",
     "static/media/fw18_0989-Ganesh-Kumar-resume.pdf": "/static/media/fw18_0989-Ganesh-Kumar-resume.f59296591405937a3742.pdf",
-    "static/media/pngItem_1.png": "/static/media/pngItem_1.0896aa3921f6a9d0aa8a.png",
+    "static/media/ganesh2.jpg": "/static/media/ganesh2.427f246a283e0b6de5d8.jpg",
     "static/media/gk.png": "/static/media/gk.75de86771d2bc97eec5a.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.49a6a049.js.map": "/static/js/main.49a6a049.js.map",
+    "main.993b68b8.js.map": "/static/js/main.993b68b8.js.map",
     "787.6d7eec60.chunk.js.map": "/static/js/787.6d7eec60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.49a6a049.js"
+    "static/js/main.993b68b8.js"
   ]
 }
